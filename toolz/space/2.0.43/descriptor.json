@@ -1,0 +1,9 @@
+{
+  "code":  "genwin-testa",
+  "version":  "2.0.43",
+  "platform":  "win64",
+  "path":  "https://raw.githubusercontent.com/litemotion/ziot-repo/master/toolz/space/2.0.43/tmp/tool.exe",
+  "path-checksum":{"md5":"B69DECC34EC53D560B3691C8672E55B0","sha1":"901BA9D130C6EF733F48AC4458F973E19E3BF1AD"},
+  "package":  "https://raw.githubusercontent.com/litemotion/ziot-repo/master/toolz/space/2.0.43/toolz.zip",
+  "package-checksum":{"md5":"ECB4BA2B3FE38204C4D1CC3EA7EC6797","sha1":"15F5383C8C9C76F5F9E8622CC034330DB96AFF61"}
+}
